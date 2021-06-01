@@ -1,0 +1,38 @@
+html {
+  background-color: #cccccc;
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+p {
+  color: red;
+  font-family:"Verdana";
+}
+
+.intro {
+color:blue;
+}
+ol, ul, li {
+color:green;
+font-family:"Arial";
+}
+table {
+  width: 80%;
+  border: 1px solid #000;
+  border-radius: 20px;
+align:center;
+color:white;
+}
+td {
+vertical-align:top;
+}
